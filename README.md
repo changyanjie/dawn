@@ -1,2 +1,2 @@
-# dawn
-# Hexo Blog
+# Dawn Hexo Blog
+> yanjie.chang
